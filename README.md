@@ -25,5 +25,10 @@ de avaliação, e cada peça vendida terá uma tabela de porcentagem de
 ganho. A entrega será feita pelos correios, a partir da própria vendedora. O
 frete já será incluso na hora da compra.
 
-Com um design ecológico e moderno, prezando pelo meio ambiente,
-nós queremos contribuir contra os fatores poluentes da indústria atual.
+## Tecnologias Utilizadas:
+Linguagens de Programação: Html, Css, JavaScript e EJS
+Front-end: Desenvolvidos Html, Css, JavaScript
+Back-end: Desenvolvido em EJS
+Banco de Dados: SQLServer
+
+Com um design ecológico e moderno, prezando pelo meio ambiente, queremos contribuir contra os fatores poluentes da indústria atual. 🌿👗
