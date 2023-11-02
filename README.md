@@ -26,9 +26,9 @@ ganho. A entrega será feita pelos correios, a partir da própria vendedora. O
 frete já será incluso na hora da compra.
 
 ## Tecnologias Utilizadas:
-Linguagens de Programação: Html, Css, JavaScript e EJS
-Front-end: Desenvolvidos Html, Css, JavaScript
-Back-end: Desenvolvido em EJS
-Banco de Dados: SQLServer
+- Linguagens de Programação: Html, Css, JavaScript e EJS
+- Front-end: Desenvolvidos Html, Css, JavaScript
+- Back-end: Desenvolvido em EJS
+- Banco de Dados: SQLServer
 
 Com um design ecológico e moderno, prezando pelo meio ambiente, queremos contribuir contra os fatores poluentes da indústria atual. 🌿👗
